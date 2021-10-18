@@ -1,0 +1,5 @@
+name: quarkus-qson
+title: Quarkus - Qson
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
